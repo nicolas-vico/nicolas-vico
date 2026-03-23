@@ -1,16 +1,24 @@
-## Hi there 👋
+# Nicolás Vico — Network Automation Engineer
 
-<!--
-**nicolas-vico/nicolas-vico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Madrid → Zürich (June 2026)
+🎯 CCNA · Python · NetDevOps
+📧 nicovicolobato@gmail.com
 
-Here are some ideas to get you started:
+## About me
+Junior Network Engineer bridging traditional 
+networking and modern automation. I build tools 
+that make networks operate themselves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+🔧 NetOps Pi — Network Automation Appliance
+Raspberry Pi 5 · Containerlab · Docker · Python
+· Automated backups · Security audits · ChatOps
+
+## Stack
+Cisco IOS · Python · Netmiko · Docker
+Containerlab · Linux · REST APIs · Flask · YAML
+
+## Certifications
+✅ Cisco CCNA (March 2026)
+✅ Python PCEP (February 2026)
+📚 AZ-104 — In progress
