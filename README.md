@@ -10,9 +10,8 @@ networking and modern automation. I build tools
 that make networks operate themselves.
 
 ## Featured Project
-🔧 NetOps Pi — Network Automation Appliance
-Raspberry Pi 5 · Containerlab · Docker · Python
-· Automated backups · Security audits · ChatOps
+🔧net-config-tool - Python + Netmiko tool to automate Cisco IOS configuration via SSH  · Git · Python
+· Automated backups · Security audits · Automation
 
 ## Stack
 Cisco IOS · Python · Netmiko · Docker
